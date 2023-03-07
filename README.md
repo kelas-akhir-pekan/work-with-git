@@ -8,11 +8,14 @@ Git was originally authored by Linus Torvalds in 2005 for development of the Lin
 source: [wikipedia](https://en.wikipedia.org/wiki/Git)
 
 
+## Requirement:
+- Git SCM [installation](https://git-scm.com/downloads)
+- Github Account (recommended) [github.com](github.com)
+
 - ## Day 1
 
 ### Git Concept
 ![800px-Git_operations svg](https://user-images.githubusercontent.com/52684582/223333879-aa01e177-5349-4f9b-b2cb-1dec90065f40.png)
-
 
 ### Git Command
 ![FqCYUbDWwAAVMUz](https://user-images.githubusercontent.com/52684582/223345802-7d655b80-cec8-421c-bcd8-ee530d95654f.jpg)
@@ -24,7 +27,9 @@ source: [wikipedia](https://en.wikipedia.org/wiki/Git)
 
 ![04 Hotfix branches](https://user-images.githubusercontent.com/52684582/223350132-056efb8c-870e-42b0-85a8-d000ac8fd400.svg)
 
-[git-flow cheatsheet (indonesia)](https://danielkummer.github.io/git-flow-cheatsheet/index.id_ID.html)
+- [git-flow concept](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.html)
+- [git-flow cheatsheet (indonesia)](https://danielkummer.github.io/git-flow-cheatsheet/index.id_ID.html)
 
 Learn more: 
 - [git book](https://git-scm.com/book/en/v2)
