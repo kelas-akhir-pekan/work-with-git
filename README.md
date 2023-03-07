@@ -10,7 +10,7 @@ source: [wikipedia](https://en.wikipedia.org/wiki/Git)
 
 ## Requirement:
 - Git SCM [installation](https://git-scm.com/downloads)
-- Github Account (recommended) [github.com](github.com)
+- Github Account (recommended) [github.com](//github.com/signup)
 
 - ## Day 1
 
