@@ -18,7 +18,10 @@ source: [wikipedia](https://en.wikipedia.org/wiki/Git)
 ![800px-Git_operations svg](https://user-images.githubusercontent.com/52684582/223333879-aa01e177-5349-4f9b-b2cb-1dec90065f40.png)
 
 ### Git Command
+- command cheatsheet
 ![FqCYUbDWwAAVMUz](https://user-images.githubusercontent.com/52684582/223345802-7d655b80-cec8-421c-bcd8-ee530d95654f.jpg)
+- compact cheatsheet
+![FqcKRnmaQAAgdKl](https://user-images.githubusercontent.com/52684582/223393661-f9df4ae6-dccf-48b6-b3da-556f9b083220.jpg)
 
 
 - ## Day 2
