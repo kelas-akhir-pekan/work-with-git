@@ -1,6 +1,6 @@
 # Work With GIT
 
-### Introduction
+## Introduction
 
 Git (/ɡɪt/) is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).
 
@@ -34,5 +34,5 @@ source: [wikipedia](https://en.wikipedia.org/wiki/Git)
 - [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.html)
 - [git-flow cheatsheet (indonesia)](https://danielkummer.github.io/git-flow-cheatsheet/index.id_ID.html)
 
-Learn more: 
+## Learn more: 
 - [git book](https://git-scm.com/book/en/v2)
